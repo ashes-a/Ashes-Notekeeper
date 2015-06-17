@@ -12,7 +12,7 @@ License
 
 Any public release is free and open source. There are no restricstion on usage. 
 
-Please send me cookies if you like the program. Chewey Snikerdooldle.
+Please send me cookies if you like the program. Chewey Snikerdoodle.
 
 =============
 Contact Info
